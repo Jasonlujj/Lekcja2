@@ -1,0 +1,14 @@
+{
+    "Rachunek-do-opłacenia-1": {
+        "kwota": "2932",
+        "data_platności": "20-11-2026",
+        "wskazanie_typu_rachunku": "Gotówka",
+        "mieszkanie": "apart-polanka"
+    },
+    "Rachunek-do-opłacenia-2": {
+        "kwota": "3402",
+        "data_platności": "26-10-2026",
+        "wskazanie_typu_rachunku": "Gotówka",
+        "mieszkanie": "apart-jezyce"
+    }
+}
